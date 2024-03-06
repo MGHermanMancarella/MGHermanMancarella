@@ -1,4 +1,4 @@
-## Hi there my name is Mikey ("my-key") 👋
+## Hi there my name is Michael. Some folks call me Mikey ("my-key") 👋
 
 ### 👨‍💻 Technologies I frequently use:
 * Frontend: JavaScript, React, HTML, CSS
